@@ -1,0 +1,7 @@
+Starting SFDX: Authorize an Org
+
+10:46:28.971 sfdx force:auth:web:login --setalias myDev1 --instanceurl https://login.salesforce.com --setdefaultusername
+WARNING: apiVersion configuration overridden at "53.0"
+Successfully authorized bliao@lifesize.com with org ID 00D5f000005WkhXEAS
+10:46:44.725 sfdx force:auth:web:login --setalias myDev1 --instanceurl https://login.salesforce.com --setdefaultusername
+ ended with exit code 0
